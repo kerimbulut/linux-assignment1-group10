@@ -1,0 +1,23 @@
+1. What is the difference between the Linux kernel and the shell?
+  The Linux kernel is the core part of the operating system that manages hardware, memory, 
+  and processes. The shell is a command-line interface that allows users to interact with the
+  kernel by typing commands. In short, the kernel does the work, while the shell acts as the
+  bridge between the user and the kernel.
+
+2. Explain the difference between an absolute path and a relative path with one example 
+  of each.
+ An absolute path shows the full location of a file or folder starting from the root directory
+  /. For example: /home/student/docs/file.txt.
+  A relative path shows the location in relation to the current working directory. 
+  For example: if you are already inside /home/student/, then docs/file.txt is a relative path.
+  3. The core components of Linux
+ The core components of Linux are:
+
+ Kernel: Controls hardware, processes, and system resources.
+
+ Shell: Provides an interface for users to run commands.
+
+ File System: Organizes and manages files and directories.
+
+ System Utilities & Applications: Tools and programs that let users perform tasks such as 
+ editing files, managing users, or networking.
